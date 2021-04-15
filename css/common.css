@@ -1,0 +1,19 @@
+/**
+ * Some common styles used across all pages
+ */
+ 
+nav {
+  display: flex;
+}
+
+a {
+  width: 140px;
+}
+
+#latitudeError{
+  color: red;
+}
+
+#longitudeError{
+  color: red;
+}

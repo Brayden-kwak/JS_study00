@@ -1,0 +1,11 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ #submitBtn:hover{
+    outline: 2px auto rgb(109, 203, 247);
+ }
+
+ .required{
+    color: red;
+ }
